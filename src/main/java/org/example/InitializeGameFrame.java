@@ -42,7 +42,7 @@ public class InitializeGameFrame {
         makeMoveButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                // Add your logic here for processing user input and generating computer response
+
             }
         });
 
